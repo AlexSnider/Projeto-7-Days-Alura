@@ -10,5 +10,5 @@ Link do Figma do projeto original: https://www.figma.com/file/mm3MLozvUDGhDRTxSL
 
 1 dia: HTML e CSS: Navbar - Cabeçalho - Métricas <br/>
 2 dia: HTML: Vagas - Depoimentos - Formulário - Footer | CSS: Vagas - Depoimentos <br/>
-3 dia: HTML e CSS finalizados | Responsividades em 1100px e 1000px concluídas <br/>
+3 dia: HTML e CSS finalizados | Responsividades em 1100px e 1000px (menu hamburger added) concluídas <br/>
 4 dia: ...
