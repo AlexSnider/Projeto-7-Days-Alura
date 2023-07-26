@@ -9,4 +9,10 @@ Link do Figma do projeto original: https://www.figma.com/file/mm3MLozvUDGhDRTxSL
 1 dia: HTML e CSS: Navbar - Cabeçalho - Métricas <br/>
 2 dia: HTML: Vagas - Depoimentos - Formulário - Footer | CSS: Vagas - Depoimentos <br/>
 3 dia: HTML e CSS finalizados | Responsividades em 1100px e 1000px (menu hamburger added) concluídas <br/>
-4 dia: Projeto finalizado com 100% responsividade.
+4 dia: Projeto finalizado com 100% responsividade. <br/>
+
+Projeto com deploy: https://projeto7days.netlify.app/ <br/>
+
+Pequena imagem do projeto:
+![image](https://github.com/AlexSnider/Projeto-7-Days-Alura/assets/103783575/a1419829-2332-4afd-b45d-ea32f710b114)
+
